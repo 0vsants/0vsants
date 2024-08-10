@@ -1,4 +1,4 @@
-## Hello Human! Bem-vindo ao perfil do 0vsants 🖐️
+## Hello Humans! Bem-vindo ao perfil do 0vsants 🖐️
 
 ![0vsants GitHub stats](https://github-readme-stats.vercel.app/api?username=0vsants&show_icons=true&theme=radical)
 
@@ -6,6 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ovsants)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santosc4uan@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cauã-santos-a37901259)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vsants&size_weight=0.5&count_weight=0.5&theme=radical)
 
