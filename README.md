@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ovsants)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santosc4uan@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vsants&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vsants&size_weight=0.5&count_weight=0.5&theme=radical)
 
 ### Tecnologias que estudo e utilizo no dia a dia!
 
