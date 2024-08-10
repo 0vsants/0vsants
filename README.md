@@ -1,4 +1,4 @@
-## Olá! Bem-vindo ao perfil doo 0vsants 🖐️
+## Hello Human! Bem-vindo ao perfil do 0vsants 🖐️
 
 ![0vsants GitHub stats](https://github-readme-stats.vercel.app/api?username=0vsants&show_icons=true&theme=radical)
 
