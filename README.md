@@ -1,6 +1,7 @@
 ## Hello Humans! Bem-vindo ao perfil do 0vsants.🖐️
 ![0vsants GitHub stats](https://github-readme-stats.vercel.app/api?username=0vsants&show_icons=true&theme=radical)
-### Apaixonado por Tecnologia e Desenvolvimento Web! Aprendendo e Desenvolvendo Projetos [Front-end]. Buscando ao máximo conhecimento e aprendizado sempre para desenvolver melhores projetos e trabalhos!
+### Apaixonado por Tecnologia e Desenvolvimento Web! Aprendendo e Desenvolvendo Projetos [Front-end]. 
+## Buscando ao máximo conhecimento e aprendizado sempre para desenvolver melhores projetos e trabalhos!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ovsants)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](santosc4uan@gmail.com)
