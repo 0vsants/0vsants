@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vsants&size_weight=0.5&count_weight=0.5&theme=radical)
 
-## Tecnologias que estudo e utilizo no dia a dia!
+## Tecnologias que estudo e utilizo no dia a dia para meus projetos!
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
